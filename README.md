@@ -1,6 +1,6 @@
 <!-- 💀 Keren, dingin, dan futuristik -->
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8000ff&height=250&section=header&text=RamaKazuya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=//code.never.sleeps&descSize=20&descAlignY=60)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8000ff&height=250&section=header&text=RamaKazuya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=&descSize=20&descAlignY=60)
 
 ---
 
