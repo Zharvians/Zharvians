@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src="./assets/ride.gif" alt="Endless Ride" width="900" height="430" style="border-radius: 12px; box-shadow: 0 0 25px rgba(255,255,255,0.2);"/>
+  <img src="./assets/ride.gif" alt="Endless Ride" width="1100" height="430" style="border-radius: 12px; box-shadow: 0 0 25px rgba(255,255,255,0.2);"/>
 </p>
 
 
