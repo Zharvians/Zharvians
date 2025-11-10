@@ -21,21 +21,6 @@
 ---
 
 ![Neon Snake](https://github.com/Zharvians/Zharvians/blob/output/snake-glow.svg)
-<div align="center" style="position: relative; background: radial-gradient(circle at top, #0a0a0a 0%, #000000 100%); border-radius: 20px; padding: 30px; box-shadow: 0 0 40px #00ffff44; overflow: hidden;">
-  <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" viewBox="0 0 1440 320">
-    <path fill="#0a0a0a" fill-opacity="1" d="M0,96L80,128C160,160,320,224,480,218.7C640,213,800,139,960,128C1120,117,1280,171,1360,197.3L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
-  </svg>
-  <img src="https://github.com/Zharvians/Zharvians/blob/output/snake-glow.svg" width="100%" style="position: relative; z-index: 2; filter: drop-shadow(0 0 10px #00ffff) drop-shadow(0 0 20px #8a2be2);">
-  <img src="https://i.imgur.com/fDL4O4e.png" alt="trees" width="100%" style="position: absolute; bottom: 0; left: 0; opacity: 0.5; z-index: 1;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle, rgba(0,255,255,0.05) 0%, transparent 70%); animation: pulse 6s infinite alternate;"></div>
-</div>
-
-<style>
-@keyframes pulse {
-  0% {opacity: 0.3;}
-  100% {opacity: 0.6;}
-}
-</style>
 
 
 ---
