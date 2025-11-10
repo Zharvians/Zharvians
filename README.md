@@ -20,7 +20,7 @@
 
 ---
 
-![Snake animation](https://github.com/RamaKazuya/RamaKazuya/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Zharvians/Zharvians/blob/output/snake.svg)
 
 ---
 
