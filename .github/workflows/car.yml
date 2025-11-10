@@ -1,0 +1,144 @@
+name: 🚗 Generate Car Animation
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate car animation HTML
+        run: |
+          mkdir -p dist
+          cat > dist/car-animation.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <title>Car Animation</title>
+            <style>
+              body {
+                margin: 0;
+                overflow: hidden;
+                background: linear-gradient(#87ceeb, #e0f7ff 60%, #444 60%);
+                height: 100vh;
+              }
+              @keyframes moveBackground {
+                0% {background-position: 0 0;}
+                100% {background-position: -1000px 0;}
+              }
+              @keyframes wheelSpin {
+                0% {transform: rotate(0deg);}
+                100% {transform: rotate(360deg);}
+              }
+              .road {
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 200%;
+                height: 100px;
+                background: repeating-linear-gradient(90deg, #333 0px, #333 100px, #444 100px, #444 200px);
+                animation: moveBackground 5s linear infinite;
+              }
+              .buildings {
+                position: absolute;
+                bottom: 100px;
+                left: 0;
+                width: 200%;
+                height: 150px;
+                background: repeating-linear-gradient(90deg, #222 0px, #222 50px, #333 50px, #333 120px);
+                animation: moveBackground 30s linear infinite;
+              }
+              .trees {
+                position: absolute;
+                bottom: 90px;
+                left: 0;
+                width: 200%;
+                height: 60px;
+                background: repeating-linear-gradient(90deg, #063 0px, #084 30px, #063 60px, #095 90px);
+                animation: moveBackground 10s linear infinite;
+              }
+              .clouds {
+                position: absolute;
+                top: 20px;
+                left: 0;
+                width: 200%;
+                height: 60px;
+                background: repeating-linear-gradient(90deg, #fff 0px, #fff 50px, transparent 50px, transparent 150px);
+                opacity: 0.6;
+                animation: moveBackground 40s linear infinite;
+              }
+              .car {
+                position: absolute;
+                bottom: 110px;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 180px;
+                height: 70px;
+                background: #ff2f2f;
+                border-radius: 12px;
+                box-shadow: 0 0 15px #ff5555;
+              }
+              .window {
+                position: absolute;
+                top: 10px;
+                left: 25px;
+                width: 80px;
+                height: 30px;
+                background: #87ceeb;
+                border-radius: 5px;
+              }
+              .wheel {
+                position: absolute;
+                bottom: -18px;
+                width: 36px;
+                height: 36px;
+                background: #000;
+                border: 4px solid #555;
+                border-radius: 50%;
+                animation: wheelSpin 1s linear infinite;
+              }
+              .wheel::after {
+                content: "";
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                width: 6px;
+                height: 6px;
+                background: #999;
+                border-radius: 50%;
+                transform: translate(-50%, -50%);
+              }
+              .wheel1 { left: 30px; }
+              .wheel2 { right: 30px; }
+            </style>
+          </head>
+          <body>
+            <div class="clouds"></div>
+            <div class="buildings"></div>
+            <div class="trees"></div>
+            <div class="road"></div>
+
+            <div class="car">
+              <div class="window"></div>
+              <div class="wheel wheel1"></div>
+              <div class="wheel wheel2"></div>
+            </div>
+          </body>
+          </html>
+          EOF
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
