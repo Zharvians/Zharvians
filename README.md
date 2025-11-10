@@ -6,7 +6,6 @@
 
 <div align="center">
 
-### ⚡ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow)
@@ -16,23 +15,19 @@
 
 ---
 
-### 💻 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=RamaKazuya&show_icons=true&hide_border=true&bg_color=000000&title_color=8000ff&text_color=ffffff&icon_color=8000ff)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamaKazuya&layout=compact&hide_border=true&bg_color=000000&title_color=8000ff&text_color=ffffff)
 
 ---
 
-### 🩶 Activity Grid
 ![Snake animation](https://github.com/RamaKazuya/RamaKazuya/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🔥 Live Effect
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2500&pause=1000&color=8000FF&center=true&vCenter=true&width=600&lines=>+system.activate+profile;>+executing+code...;>+stay+silent,+stay+sharp)](https://git.io/typing-svg)
 
 ---
 
-### 🕶️
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8000ff,100:000000&height=120&section=footer)
 
 </div>
