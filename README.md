@@ -19,6 +19,7 @@ I enjoy exploring new technologies and creating projects that push the limits of
 ![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow)
+![TS](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=openjdk&logoColor=red)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=red)
 ![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Lua](https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=2C2D72)
