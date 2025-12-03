@@ -26,7 +26,8 @@ I enjoy exploring new technologies and creating projects that push the limits of
 ---
 
 <!-- Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=Zharvians&show_icons=true&hide_border=true&bg_color=000000&title_color=8000ff&text_color=ffffff&icon_color=8000ff)
+![Zharvians' Stats](https://github-readme-stats.vercel.app/api?username=Zharvians&show_icons=true&hide_border=true&bg_color=000000&title_color=bb00ff&text_color=ffffff&icon_color=bb00ff&ring_color=bb00ff)
+
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zharvians&layout=compact&hide_border=true&bg_color=000000&title_color=8000ff&text_color=ffffff)
 
 ---
