@@ -7,7 +7,8 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Zharvians&label=Profile%20Views&color=6a11cb&style=for-the-badge" />
+[<img src="https://komarev.com/ghpvc/?username=Zharvians&label=Profile%20Views&color=6a11cb&style=for-the-badge" />](https://komarev.com/ghpvc/?username=Zharvians&label=Profile%20Hits&color=3b82f6&style=flat
+)
 
 ---
 
