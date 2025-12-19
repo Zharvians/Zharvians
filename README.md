@@ -1,55 +1,118 @@
-<!-- 💀 Keren, dingin, dan futuristik -->
+<!-- ⚡ ULTRA PREMIUM • FUTURISTIC • BLUE–PURPLE GRADIENT -->
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8000ff&height=250&section=header&text=ZHARVIAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=&descSize=20&descAlignY=60)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:6a11cb&height=280&section=header&text=ZHARVIAN&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Developer%20|%20System%20Designer%20|%20Creative%20Technologist&descSize=24&descAlignY=64)
 
 ---
 
 <div align="center">
 
-<!-- About Me -->
-## About Me
-**Hi, I'm Zharvian** — a passionate developer interested in web, mobile, and game development.  
-I enjoy exploring new technologies and creating projects that push the limits of what's possible.  
-
-[Visit My About Page](https://zharvians.github.io/aboutme/)  
+<img src="https://komarev.com/ghpvc/?username=Zharvians&label=Profile%20Views&color=6a11cb&style=for-the-badge" />
 
 ---
 
-<!-- Skills -->
-![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow)
-![TS](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=openjdk&logoColor=red)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=red)
-![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Lua](https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=2C2D72)
+## 🧬 Identity
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://avatars.githubusercontent.com/u/yourid" width="120" style="border-radius:50%; box-shadow:0 0 30px rgba(106,17,203,0.6);" />
+</td>
+<td>
+
+**Zharvian**  
+Developer focused on **high-quality digital systems**, elegant interfaces, and scalable architectures.  
+Driven by precision, aesthetics, and long-term maintainability.
+
+🔹 Web • Mobile • Game  
+🔹 UI Engineering • Logic Design • System Flow
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- Stats -->
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zharvians&layout=compact&hide_border=true&bg_color=000000&title_color=8000ff&text_color=ffffff)
-
----
-
-<!-- Partner -->
-## Partner
-[![LunarScribe](https://img.shields.io/badge/LunarScribe-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LunarScribeStudios)  
-
-<!-- Tambahkan partner lain dengan format yang sama -->
-
----
-
+## ⚙️ Core Technologies
 <p align="center">
-  <img src="./assets/ride.gif" alt="Endless Ride" width="1100" height="500" style="border-radius: 12px; box-shadow: 0 0 25px rgba(255,255,255,0.2);"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,kotlin,lua&theme=dark" />
 </p>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2500&pause=1000&color=8000FF&center=true&vCenter=true&width=600&lines=>+system.activate+profile;>+executing+code...;>+stay+silent,+stay+sharp)](https://git.io/typing-svg)
+## 🧠 Developer Principles
+<table>
+<tr>
+<td>🧩</td><td><b>System Thinking</b></td><td>Every feature is part of a larger architecture</td>
+</tr>
+<tr>
+<td>🎨</td><td><b>Visual Discipline</b></td><td>Design must communicate function</td>
+</tr>
+<tr>
+<td>⚡</td><td><b>Efficiency First</b></td><td>Clean logic, minimal overhead</td>
+</tr>
+<tr>
+<td>🔒</td><td><b>Reliability</b></td><td>Stable systems over flashy hacks</td>
+</tr>
+</table>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8000ff,100:000000&height=120&section=footer)
+## 🌌 Community & Network
+<table>
+<tr>
+<td width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="36"/></td>
+<td>
+<b>ZHARVIAN Dev Community</b><br/>
+A curated developer space for discussion, learning, and collaboration.
+</td>
+<td align="right"><a href="https://discord.gg/jnYpjWmjdz">Join</a></td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=Zharvians&show_icons=true&hide_border=true&bg_color=0f2027&title_color=6a11cb&icon_color=38bdf8&text_color=ffffff" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zharvians&hide_border=true&background=0f2027&ring=6a11cb&fire=38bdf8&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=38bdf8" />
+
+---
+
+## 🧭 Featured Focus
+<table>
+<tr>
+<td width="33%">
+<b>🚀 Innovation</b><br/>
+Building systems that reduce complexity and increase clarity.
+</td>
+<td width="33%">
+<b>🛠 Engineering</b><br/>
+Strong foundations with scalable logic and structure.
+</td>
+<td width="33%">
+<b>🎮 Creativity</b><br/>
+Blending logic with expressive digital experiences.
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Collaborations
+[![LunarScribe](https://img.shields.io/badge/LunarScribe-0f2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LunarScribeStudios)
+
+---
+
+<p align="center">
+  <img src="./assets/ride.gif" width="1100" height="500"
+  style="border-radius:16px; box-shadow:0 0 45px rgba(56,189,248,0.35);" />
+</p>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=>+boot.sequence.start();>+loading.modules...;>+identity.confirmed;>+execute.with.elegance)](https://git.io/typing-svg)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:0f2027&height=140&section=footer)
 
 </div>
