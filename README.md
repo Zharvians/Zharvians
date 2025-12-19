@@ -1,6 +1,7 @@
 <!-- ⚡ ULTRA PREMIUM • FUTURISTIC • BLUE–PURPLE GRADIENT -->
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:6a11cb&height=280&section=header&text=ZHARVIAN&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Developer%20|%20System%20Designer%20|%20Creative%20Technologist&descSize=24&descAlignY=64)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:2b124f,100:8b6cff&height=280&section=header&text=ZHARVIAN&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Developer%20|%20System%20Designer%20|%20Creative%20Technologist&descSize=24&descAlignY=64)
+
 
 ---
 
