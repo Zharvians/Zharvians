@@ -59,10 +59,10 @@ Driven by precision, aesthetics, and long-term maintainability.
 ## 🌌 Community & Network
 <table>
 <tr>
-<td width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="36"/></td>
+<td width="60"><img src="./assets/image.webp" width="36"/></td>
 <td>
-<b>ZHARVIAN Dev Community</b><br/>
-A curated developer space for discussion, learning, and collaboration.
+<b>Community</b><br/>
+Komunitas Gaming Indonesia yg masih merintis :)
 </td>
 <td align="right"><a href="https://discord.gg/jnYpjWmjdz">Join</a></td>
 </tr>
