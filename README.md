@@ -10,7 +10,7 @@
 
 ---
 
-## 🧬 Identity
+## ⋆.˚✮ Identity ✮˚.⋆
 <table>
 <tr>
 <td align="center" width="160">
@@ -31,14 +31,14 @@ Driven by precision, aesthetics, and long-term maintainability.
 
 ---
 
-## ⚙️ Core Technologies
+## ⋆༺𓆩 Core Technologies 𓆪༻⋆
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,kotlin,lua&theme=dark" />
 </p>
 
 ---
 
-## 🧠 Developer Principles
+## 𓂃˖˳·˖ ִֶָ ⋆ Developer Principles ⋆ ִֶָ˖·˳˖𓂃 ִֶָ
 <table>
 <tr>
 <td>🧩</td><td><b>System Thinking</b></td><td>Every feature is part of a larger architecture</td>
@@ -56,7 +56,7 @@ Driven by precision, aesthetics, and long-term maintainability.
 
 ---
 
-## 🌌 Community & Network
+## ﮩ٨ـﮩﮩ٨ـ Community & Network ﮩ٨ـﮩﮩ٨ـ
 <table>
 <tr>
 <td width="60"><img src="./assets/image.webp" width="36"/></td>
@@ -70,14 +70,14 @@ Komunitas Gaming Indonesia yg masih merintis :)
 
 ---
 
-## 📈 GitHub Analytics
+## ⫘⫘⫘ GitHub Analytics ⫘⫘⫘
 <img src="https://github-readme-stats.vercel.app/api?username=Zharvians&show_icons=true&hide_border=true&bg_color=0f2027&title_color=6a11cb&icon_color=38bdf8&text_color=ffffff" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zharvians&hide_border=true&background=0f2027&ring=6a11cb&fire=38bdf8&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=38bdf8" />
 
 ---
 
-## 🧭 Featured Focus
+## ✩₊˚.⋆ Featured Focus ⋆⁺₊✧
 <table>
 <tr>
 <td width="33%">
@@ -97,7 +97,7 @@ Blending logic with expressive digital experiences.
 
 ---
 
-## 🤝 Collaborations
+## ────────────୨ Collaborations ৎ────────────
 [![LunarScribe](https://img.shields.io/badge/LunarScribe-0f2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LunarScribeStudios)
 
 ---
