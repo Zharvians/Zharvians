@@ -14,7 +14,7 @@
 <table>
 <tr>
 <td align="center" width="160">
-<img src="https://avatars.githubusercontent.com/u/yourid" width="120" style="border-radius:50%; box-shadow:0 0 30px rgba(106,17,203,0.6);" />
+<img src="./assets/515098581_835651015924388_3154947921850495457_n.png" width="120" style="border-radius:50%; box-shadow:0 0 30px rgba(106,17,203,0.6);" />
 </td>
 <td>
 
