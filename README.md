@@ -38,7 +38,7 @@ Driven by precision, aesthetics, and long-term maintainability.
 ## ✧･ﾟ: * About Me * :･ﾟ✧
 <p align="center">
 
-<img src="https://zharvians.github.io/aboutme/preview.png" width="800" style="border-radius:12px; box-shadow:0 0 40px rgba(139,108,255,0.35);" />
+<img src="./assets/preview.png" width="800" style="border-radius:12px; box-shadow:0 0 40px rgba(139,108,255,0.35);" />
 
 </p>
 
