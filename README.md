@@ -35,7 +35,7 @@ Driven by precision, aesthetics, and long-term maintainability.
 
 ---
 
-## ✧･ﾟ: * About Me * :･ﾟ✧
+## ✧･ﾟ: * My Portofolio * :･ﾟ✧
 <p align="center">
 
 <img src="./assets/porto.png" width="800" style="border-radius:12px; box-shadow:0 0 40px rgba(139,108,255,0.35);" />
@@ -48,7 +48,7 @@ Driven by precision, aesthetics, and long-term maintainability.
 
 <p align="center">
 <a href="https://zharvians.github.io/porto/" target="_blank">
-<img src="https://img.shields.io/badge/Open%20About%20Me-8b6cff?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20My%20Portofolio-8b6cff?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
 
